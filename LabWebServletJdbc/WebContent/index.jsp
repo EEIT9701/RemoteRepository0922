@@ -8,7 +8,8 @@
 <title>Home</title>
 </head>
 <body>
-<h1>hahahaha</h1>
+
+
 <h3>Welcome ${user.custid}</h3>
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
