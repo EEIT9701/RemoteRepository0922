@@ -8,8 +8,7 @@
 <title>Home</title>
 </head>
 <body>
-<h1>香港3345678</h1>
-<h2>因為我睡了</h2>
+
 <h3>Welcome ${user.custid}</h3>
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
